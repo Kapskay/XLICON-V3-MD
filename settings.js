@@ -43,7 +43,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 //________________________________________________________________________________________________________
 global.ytname = process.env.YT_NAME || "YT: S4 Salman YT" //ur yt chanel name
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
+global.socialm = process.env.MEDIA || "GitHub: Kapskay" //ur github or insta name
 //________________________________________________________________________________________________________
 global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur location
 //________________________________________________________________________________________________________
